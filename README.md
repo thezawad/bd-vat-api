@@ -10,3 +10,6 @@ Using this api is pretty simple. Just fork the repo. Move api.php to your server
 
 ######More guides and sample codes in different languages are coming very soon :D
 Feel free to Fork and Contribute.
+
+
+**the site ```zawad.science``` is no more available.  thanks. **
