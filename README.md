@@ -1,3 +1,5 @@
+#OBSOLETE
+
 # bd-vat-api
 Vat Registration Checking API for Bangladesh. This API utilizes the BIN checking feature of NBR website. You can use this API to add BIN checking feature to your website or apps.
 
